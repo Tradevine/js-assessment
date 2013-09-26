@@ -8,9 +8,6 @@ var tests = [
   'tests/app/modules',
   'tests/app/flowControl',
   'tests/app/logicalOperators',
-  'tests/app/regex',
-  'tests/app/recursion',
-  'tests/app/numbers',
   'tests/app/count'
 ];
 
